@@ -1,0 +1,88 @@
+body{
+    font-family: 'Poppins', sans-serif; 
+    margin: 0px;
+   
+}
+p{
+    color:dimgray;
+}
+.highlight{
+    font-size: 40px;
+    color: red;
+    font-weight: 800;
+}
+.halfArea {
+        width: 30%;
+        margin: 7%;
+        padding: 0%;
+        float: left;
+    }
+    .downpad{
+        padding-top: 12%;
+
+    }
+    .halfArea a{
+        text-decoration: none;
+        background-color: #ee3655;
+        padding: 10px 20px;
+        border-radius: 5px;
+        color: white;
+        font-weight: 700;
+        
+    }
+    .workSec img{
+        width: 25%;
+        padding-top: 5%;
+    }
+.headSec{
+    background-image:url(image/header-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.midSec{
+    background-image: url(image/biography-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.workSec{
+    background-image: url(image/latest-work-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align:center;
+    height: 500px;
+    padding: 2%;
+    
+}
+.clientSec{
+    background-image: url(image/footer-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: center;
+}
+.mail{
+    background-color: #ee3655;
+    color: white;
+    height: 150px;
+    width: 60%;
+    padding: 0px;
+    margin: auto;
+    border-radius: 10px;
+}
+.workSec h1{
+    text-align: center;
+    font-size: 40px;
+
+}
+.clientSec h1{
+    font-size: 40px;
+
+}
+.halfArea img{
+    width: 100%;
+}
+section{
+    height: 768px;
+}
+footer{
+    text-align: center;
+}
